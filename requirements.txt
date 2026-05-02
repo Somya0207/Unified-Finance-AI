@@ -1,0 +1,16 @@
+streamlit
+PyPDF2
+reportlab
+SpeechRecognition
+gTTS
+langchain
+langchain-community
+chromadb
+sentence-transformers
+crewai
+langchain-google-genai
+google-generativeai
+python-dotenv
+pymongo
+requests
+langchain-groq
